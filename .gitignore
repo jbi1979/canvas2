@@ -1,0 +1,7 @@
+yii-1.1.14/
+protected/config/
+assets/
+error_log
+upload/
+protected/runtime/
+index.php
